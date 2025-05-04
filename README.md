@@ -3,7 +3,8 @@
 
 **`Desenvolvedora`**
 
-Me chamo Ana Carolina Rodrigues Bispo dos Santos, tenho 23 anos e sou natural do Litoral de São Paulo. Fui Jovem Aprendiz na Petrobras em Técnico de T.I. Atualmente, estou cursando Automação na IFSP. Sou apaixonada por tecnologia e automação.
+Me chamo Ana Carolina Rodrigues Bispo dos Santos, tenho 23 anos e sou natural do Litoral de São Paulo. 
+Fui Jovem Aprendiz na Petrobras em Técnico de T.I. Atualmente, estou cursando Automação na IFSP. Sou apaixonada por tecnologia e automação.
 
 ### 🤖 Linguagens e Tecnologias
 
