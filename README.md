@@ -1,4 +1,4 @@
-# 👩🏽‍💻Olá pessoal!!
+# Olá pessoal!!
 
 
 **`Desenvolvedora`**
